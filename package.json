@@ -1,0 +1,20 @@
+{
+  "title": "Quick Switch Search Engine",
+  "name": "quickswitchsearchengine",
+  "id": "ScrollSwitchSearchEngine@ettoolong",
+  "version": "0.0.7",
+  "description": "Switch Search Engine by mouse wheel or mouse middle button",
+  "main": "data/js/addon-script.js",
+  "author": "ettoolong@hotmail.com",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "permissions":{
+    "multiprocess": true,
+    "private-browsing": true
+  }
+}
